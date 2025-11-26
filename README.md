@@ -3,7 +3,8 @@ Sovelar is a MPPT non-synchronous buck converter with Esp32, WiFi capability and
 
 ## Feature
 -  50V 10A Maximum Power
--  Build-in Protection (Over/Under Voltage, Over Current)
+-  Over/Under Voltage, Over Current, Overheat Protection
+-  Varible PWM Fan Control
 -  Powerful ESP32-Wroom2 with Editable Code
 -  Maximum Power Point Tracking (MPPT) Algorithm
 -  Backflow Diode to prevent current flow back to the SolarCell
